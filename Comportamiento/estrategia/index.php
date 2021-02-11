@@ -1,11 +1,4 @@
 <?php
-/**
- * Creado con PhpStorm.
- * patronesdiseno
- * Desarrollador: Alejandro Sosa
- * Fecha: 26/9/2016
- * Hora: 20:32
- */
 
 interface IStrategy
 {
